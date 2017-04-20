@@ -1,5 +1,5 @@
 syntax on 			" Enable Syntax Highlighting
-colorscheme badwolf 		" Use the badwold colrscheme in ~/.vim/colors/badwolf.vim
+colorscheme badwolf 		" Use the badwold colrscheme in ~/.vim/colors/badwolf.vim (https://github.com/sjl/badwolf/)
 
 set tabstop=4			" Number of VISUAL spaces per TAB (what is rendered when reading)
 set softtabstop=4		" Number of ACTUAL spaces per TAB (what is inserted when editing)
